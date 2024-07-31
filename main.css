@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    font-style: oblique;
+    background-color: whitesmoke;
+}
+div{
+    background-color: white;
+    display: inline-block;
+    padding: 30px;
+    border-radius: 8px;
+    width: 300px;
+    height: fit-content;
+    margin-top: 200px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    border: 10px strong black;
+    border-radius: 4px;
+    cursor: text;
+}
+button{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: large;
+    font-style: italic;
+    width: 100%;
+}

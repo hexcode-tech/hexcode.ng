@@ -1,0 +1,42 @@
+body{
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 200px;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+    justify-content: center;
+}
+
+div{
+    background-color: white;
+    padding: 30px;
+    width: 200px;
+    height: 70px;
+    text-align: center;
+    border-radius: 8px;
+}
+button{
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border: 90px strong white;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: medium;
+    width: 10rem;
+}
+label{
+    display: contents;
+    color: green;
+}
+input{
+    width: 11rem;
+    padding: 5px;
+    border: 1px strong whitesmoke;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+button:hover{
+    background-color: whitesmoke;
+}
